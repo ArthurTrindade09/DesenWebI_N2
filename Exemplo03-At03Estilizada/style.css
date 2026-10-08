@@ -1,0 +1,7 @@
+.secbase {background-color:rgb(240, 192, 162);}
+.secsub {background-color:rgb(255, 240, 220);}
+
+
+body {background-color: rgb(107, 0, 86);}
+h1, h2 {background-color:rgb(201, 154, 92);color:darkblue; font-family: 'Courier New', Courier, monospace;}
+p {color:rebeccapurple; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-style: italic;}
